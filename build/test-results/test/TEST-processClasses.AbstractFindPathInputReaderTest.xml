@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="processClasses.AbstractFindPathInputReaderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-08T05:53:54" hostname="DANIEL" time="0.021">
+  <properties/>
+  <testcase name="allowedCharactersCheck()" classname="processClasses.AbstractFindPathInputReaderTest" time="0.013"/>
+  <testcase name="processInput()" classname="processClasses.AbstractFindPathInputReaderTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
